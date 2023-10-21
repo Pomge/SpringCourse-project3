@@ -1,0 +1,8 @@
+*.classpath
+*.project
+*src/test/
+*.mvn/
+*.settings/
+*target/
+project3-server/src/main/resources/application.properties
+project3-server/HELP.md
